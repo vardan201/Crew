@@ -1,11 +1,9 @@
 crewai[tools]==1.7.2
 
-# Web
 fastapi==0.115.0
 uvicorn[standard]==0.30.6
 python-multipart==0.0.12
 
-# LLM
 openai==1.83.0
 groq
 litellm==1.48.1
